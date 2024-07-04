@@ -96,18 +96,18 @@
   padding: 20px 40px;
   display: flex;
 }
-.contact-form{
+.form-input{
   display: flex;
   width: 100%;
   background-color: white;
 }
-.foot-form{
+.form-message{
   height: 50px;
   width: 100%;
   padding-left: 10px;
   border: none;
 }
-.send{
+.form-submit{
   height: 50px;
   padding: 0 20px;
   border: none;
